@@ -1,0 +1,17 @@
+/* Main CSS file */
+body
+{
+  padding: 0;
+  margin: 0;
+  background-color: #222;
+  color: skyblue;
+  width: 100%;
+  min-height: 90vh;
+  font-family: sans-serif;
+}
+
+.container
+{
+  padding: 0px 50px;
+  margin: 0;
+}
